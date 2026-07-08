@@ -10,7 +10,7 @@ The following structured views showcase the complete end-to-end analytical repor
 
 | 📉 1. Executive Dashboard Overview | 📈 2. Fraud vs Genuine Analysis |
 | :---: | :---: |
-| ![Executive Overview](dashboard.png) | ![Fraud vs Genuine](trend_analysis.png) |
+| ![Executive Overview](Dashboard.png) | ![Fraud vs Genuine](trend_analysis.png) |
 
 | ⏱️ 3. Time-Based Fraud Analysis | 💰 4. Transaction Amount Risk Analysis |
 | :---: | :---: |
